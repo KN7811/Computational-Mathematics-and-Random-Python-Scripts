@@ -1,1 +1,1 @@
-# Computational-Mathematics-and-Random-Python-Scripts
+# Computational Mathematics
